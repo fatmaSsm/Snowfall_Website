@@ -17,10 +17,10 @@ Happy New Year everyone! 🎄✨
 
 ---
 
-## 🌨️ Website
+## ☃️ Website
 
 -   <a href="https://snowfall-website.infinityfree.me/" target="_blank" rel="noopener noreferrer">
-     Snowfall ☃️
+     Snowfall 🌨️
   </a>
   
 ---
