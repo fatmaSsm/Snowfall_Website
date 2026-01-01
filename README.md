@@ -13,8 +13,12 @@
 - There’s a cozy New Year background, some gentle falling snow, and a layout that works nicely on both desktop and mobile screens.
 
 - Wishing you a year full of good vibes, smooth code, and fewer bugs.
- 
-                                        Happy New Year everyone! 🎄✨
+
+
+```text
+                                            Happy New Year everyone! 🎄✨ 
+```
+
 
 ---
 
