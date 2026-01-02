@@ -1,7 +1,7 @@
 #  Happy New Year 2026 || 🎆
 
 <p align="center">
-  <img src="Snowfall_Website/assets/video.gif" width="600" />
+  <img src="Snowfall_Website/assets/video.gif" width="600" /> 
 </p>
 
 ---
