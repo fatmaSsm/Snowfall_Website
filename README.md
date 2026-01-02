@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="Snowfall_Website/assets/video.gif" width="600" /> 
-</p>
+</p> 
 
 ---
 
