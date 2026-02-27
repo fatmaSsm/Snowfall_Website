@@ -24,7 +24,7 @@
 
 ## ☃️ Website
 
--   <a href="https://snowfall-website.infinityfree.me/" target="_blank" rel="noopener noreferrer">
+-   <a href="https://fatmassm.github.io/Snowfall_Website/" target="_blank" rel="noopener noreferrer">
      Snowfall 🌨️
   </a>
   
